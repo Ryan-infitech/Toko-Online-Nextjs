@@ -12,7 +12,8 @@ backend/node_modules
 !.yarn/versions
 
 # testing
-/coverage
+backend/coverage
+backend/logs
 
 # next.js
 /.next/
